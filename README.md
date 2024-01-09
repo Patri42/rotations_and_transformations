@@ -4,8 +4,10 @@ This repository contains a collection of Python scripts that demonstrate the pro
 
 ## What's Inside
 
-- `changing_multiple_rotations.py`:
-- `single_axis_dcm.py`:
+- `changing_multiple_rotations.py`: Demonstrates sequential rotations around the x-axis using rotation matrices. It shows how multiple rotations transform a vector step-by-step and how combining these rotations yields the same result as a single, equivalent rotation.
+- `single_axis_dcm.py`: Showcases the application of a rotation matrix to rotate a vector around the x-axis by a specific angle, demonstrating the transformation of vector components in 3D space.
+- `rotation_interpolation.py`:This script illustrates linear interpolation between two rotation matrices around the X-axis, showcasing a method for smooth transitions between different 3D rotations.
+- `euler_angles_to_dcm.py`: Provides an implementation for converting Euler angles to a direction cosine matrix (DCM) and back. It demonstrates how to apply Euler angles for rotations in 3D space and how to extract these angles back from the rotation matrix.
 
 ## Future Updates
 
