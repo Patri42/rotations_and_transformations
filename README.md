@@ -1,6 +1,6 @@
 # 3D Vector Rotation and Transformation Demonstrations
 
-This repository contains a collection of Python scripts that demonstrate the process of rotating 3D vectors using rotation matrices. The scripts utilize the `numpy` library to perform matrix operations and showcase how vectors transform when they are rotated about the x-axis in a three-dimensional space.
+This repository contains a collection of Python scripts that demonstrate the process of rotating 3D vectors using rotation matrices and Euler angles. The scripts utilize the `numpy` library to perform matrix operations and showcase how vectors transform in three-dimensional space.
 
 ## What's Inside
 
